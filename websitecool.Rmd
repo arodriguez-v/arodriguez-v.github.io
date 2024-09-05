@@ -1,0 +1,36 @@
+---
+title: "Andrea Rodríguez Villafañe"
+image: "andrea-pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/andrea-rodríguez-villafañe"
+  - label: GitHub
+    url: "https://github.com/arodriguez-v/arodriguez-v.github.io"
+  - label: Email
+    url: "mailto:arodr102@jhu.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Andrea Rodríguez Villafañe (she/her) studies sexual and reproductive health and is passionate about data analysis. She is a PhD student at Johns Hopkins Bloomberg School of Public Health in the Population, Family and Reproductive Health Department. Andrea cares about health equity, community building, and inclusiveness, and hopes to make people smile.  
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+MSPH in Population, Family and Reproductive Health | May 2023
+
+**University of Puerto Rico, Río Piedras Campus** | 
+San Juan, PR
+
+B.S. in Integrative Biology | May 2021
+
+## Hobbies
+
+**Swing dancing and soccer** | I enjoy being active and interacting with other people for a common goal.
+
+**Petting dogs** | I fall into the cliché of loving animals.     
+
+**Cooking and baking** | Once a bench scientist, I still enjoy following recipes carefully to end up with a rewarding outcome.
